@@ -47,3 +47,5 @@ Anas Fartas Activité Pratique du Contrôle 5IIRG3-Centre
 ![q9s2](https://user-images.githubusercontent.com/80294911/206859527-789c9eb1-01f5-44a2-bf7c-f7c605ce90c6.png)
 ## Manager Interface
 ![q9s3](https://user-images.githubusercontent.com/80294911/206859547-39a59cf3-3338-4bd9-b5bf-bec192cd97bc.png)
+## Orders Chart
+![q10](https://user-images.githubusercontent.com/80294911/219941297-944178d3-acff-438d-9d1e-27e260f909ba.jpeg)
